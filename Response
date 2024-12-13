@@ -1,0 +1,150 @@
+{
+    "CRYPTO_status": {
+        "CRYPTO_appName": "Cryptocurrency Calculator",
+        "CRYPTO_adStatus": 0,
+        "CRYPTO_admob_adstatus": 0,
+        "CRYPTO_facebook_adstatus": 0,
+        "CRYPTO_customappopen_adstatus": 0,
+        "CRYPTO_customnative_adstatus": 0
+    },
+    "admob": {
+        "CRYPTO_appopen_id": "",
+        "CRYPTO_banner_id": "",
+        "CRYPTO_native_id": "",
+        "CRYPTO_interstitial_id": ""
+    },
+    "facebook": {
+        "CRYPTO_banner_id": "",
+        "CRYPTO_native_id": "",
+        "CRYPTO_interstitial_id": ""
+    },
+    "frequency_capping": {
+        "CRYPTO_frequency_banner": "0",
+        "CRYPTO_frequency_native": "0",
+        "CRYPTO_frequency_appopen": "0",
+        "CRYPTO_frequency_interstitial": "0",
+        "CRYPTO_frequency_Backinterstitial": "0",
+        "CRYPTO_frequency_affiliate": "0"
+    },
+    "extra": {
+        "CRYPTO_privacyPolicy": "https:\/\/autoloanemicalculator.blogspot.com\/2024\/11\/privacy-policy.html",
+        "CRYPTO_contactUS": "https:\/\/forms.gle\/3qZdBdNhyzuKisaY7",
+        "CRYPTO_extrascreen": "0",
+        "CRYPTO_extrascreen2": "0",
+        "CRYPTO_interAdDialog": 0,
+        "CRYPTO_nativeLayoutRandom": 0,
+        "CRYPTO_nativeType": "default",
+        "CRYPTO_bannerTimer": 250000,
+        "CRYPTO_CollapsiblebannerTimer": 2000,
+        "CRYPTO_nativeclickupgrade": 0,
+        "CRYPTO_affiliate_url": "null",
+        "CRYPTO_naffiliate_url": "null",
+        "CRYPTO_fbAppID": "1234",
+        "CRYPTO_fbClientID": "5678",
+        "CRYPTO_userTracking": 0,
+        "CRYPTO_userTrackingURL": "utm_source=google-play&utm_medium=organic",
+        "CRYPTO_userTrackingType": 0,
+        "CRYPTO_collapsizeBanner": 0,
+        "CRYPTO_OpenisInter": false,
+        "CRYPTO_someTimeAgain": 0,
+        "CRYPTO_NativeisBannerAdShown": false,
+        "CRYPTO_BannerisNativeAdShown": false,
+        "CRYPTO_FbTrakingMethod": false,
+        "CRYPTO_enableNotify": "",
+        "CRYPTO_ReturnUserCare": false
+    },
+    "appInstallextra": {
+        "adStatus": 0,
+        "admob_adstatus": 0,
+        "facebook_adstatus": 0,
+        "appopen_id": "",
+        "banner_id": "",
+        "native_id": "",
+        "fb_banner_id": "",
+        "fb_native_id": "",
+        "fb_interstitial_id": "",
+        "frequency_banner": "0",
+        "frequency_native": "0",
+        "frequency_interstitial": "0",
+        "frequency_Backinterstitial": "0",
+        "frequency_affiliate": "0",
+        "extrascreen": "0",
+        "extrascreen2": "0",
+        "interAdDialog": 0,
+        "customnative_adstatus": 0,
+        "nativeLayoutRandom": 0,
+        "nativeType": "default",
+        "bannerTimer": 200000,
+        "CollapsiblebannerTimer": 200000,
+        "nativeclickupgrade": 0,
+        "affiliate_url": "null",
+        "collapsizeBanner": 0,
+        "OpenisInter": false,
+        "someTimeAgain": 0,
+        "NativeisBannerAdShown": false,
+        "BannerisNativeAdShown": false,
+        "FbTrakingMethod": false,
+        "enableNotify": ""
+    },
+    "customNative": [
+        {
+            "adIcon": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_diamond_gif.gif",
+            "adTitle": "MAX Diamonds",
+            "adBanner": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_quiz_big_1.webp",
+            "adBannerIOG": true,
+            "adButtonName": "Get free Diamonds",
+            "adActionURL": "https:\/\/1106.go.mglgamez.com\/pregames",
+            "adApporWeb": false
+        },
+        {
+            "adIcon": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_diamond_gif.gif",
+            "adTitle": "Win 500000 diamonds",
+            "adBanner": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_quiz_big_2.webp",
+            "adBannerIOG": true,
+            "adButtonName": "Get free Diamonds",
+            "adActionURL": "https:\/\/1106.go.mglgamez.com\/pregames",
+            "adApporWeb": false
+        },
+        {
+            "adIcon": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_diamond_gif.gif",
+            "adTitle": "Aaj Game khela kya?",
+            "adBanner": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_quiz_big_3.webp",
+            "adBannerIOG": true,
+            "adButtonName": "Get Diamonds",
+            "adActionURL": "https:\/\/1106.go.mglgamez.com\/pregames",
+            "adApporWeb": false
+        }
+    ],
+    "customBanner": [
+        {
+            "adBanner": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_banner1.png",
+            "adActionURL": "https:\/\/1104.go.mglgamez.com\/pregames"
+        },
+        {
+            "adBanner": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_banner2.png",
+            "adActionURL": "https:\/\/1104.go.mglgamez.com\/pregames"
+        },
+        {
+            "adBanner": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_banner3.png",
+            "adActionURL": "https:\/\/1104.go.mglgamez.com\/pregames"
+        }
+    ],
+    "customOpen": [
+        {
+            "adIcon": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_diamond_gif.gif",
+            "adTitle": "Play and Win",
+            "adDesc": "Play and Win and earn upto 10,000 coin daily",
+            "adButtonName": "Win Coin",
+            "adBanner": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_quiz_big_3.webp",
+            "adActionURL": "https:\/\/116.mark.qureka.com\/intro\/question"
+        },
+        {
+            "adIcon": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_diamond_gif.gif",
+            "adTitle": "Play and Win",
+            "adDesc": "Play and Win and earn upto 10,000 coin daily",
+            "adButtonName": "Win Coin",
+            "adBanner": "https:\/\/sunilmurphy.github.io\/fffasset\/spindiamond_quiz_big_2.webp",
+            "adActionURL": "https:\/\/116.mark.qureka.com\/intro\/question"
+        }
+    ]
+}
