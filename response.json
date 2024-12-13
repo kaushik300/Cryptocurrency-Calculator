@@ -1,11 +1,11 @@
 {
     "CRYPTO_status": {
         "CRYPTO_appName": "Cryptocurrency Calculator",
-        "CRYPTO_adStatus": 0,
+        "CRYPTO_adStatus": 1,
         "CRYPTO_admob_adstatus": 0,
         "CRYPTO_facebook_adstatus": 0,
-        "CRYPTO_customappopen_adstatus": 0,
-        "CRYPTO_customnative_adstatus": 0
+        "CRYPTO_customappopen_adstatus": 1,
+        "CRYPTO_customnative_adstatus": 1
     },
     "admob": {
         "CRYPTO_appopen_id": "",
@@ -21,7 +21,7 @@
     "frequency_capping": {
         "CRYPTO_frequency_banner": "0",
         "CRYPTO_frequency_native": "0",
-        "CRYPTO_frequency_appopen": "0",
+        "CRYPTO_frequency_appopen": "2",
         "CRYPTO_frequency_interstitial": "0",
         "CRYPTO_frequency_Backinterstitial": "0",
         "CRYPTO_frequency_affiliate": "0"
@@ -37,8 +37,8 @@
         "CRYPTO_bannerTimer": 250000,
         "CRYPTO_CollapsiblebannerTimer": 2000,
         "CRYPTO_nativeclickupgrade": 0,
-        "CRYPTO_affiliate_url": "null",
-        "CRYPTO_naffiliate_url": "null",
+        "CRYPTO_affiliate_url": "https://1106.go.mglgamez.com/pregames",
+        "CRYPTO_naffiliate_url": "https://1106.go.mglgamez.com/pregames",
         "CRYPTO_fbAppID": "1234",
         "CRYPTO_fbClientID": "5678",
         "CRYPTO_userTracking": 0,
