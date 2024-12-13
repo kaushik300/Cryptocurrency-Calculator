@@ -2,16 +2,16 @@
     "CRYPTO_status": {
         "CRYPTO_appName": "Cryptocurrency Calculator",
         "CRYPTO_adStatus": 1,
-        "CRYPTO_admob_adstatus": 0,
+        "CRYPTO_admob_adstatus": 1,
         "CRYPTO_facebook_adstatus": 0,
-        "CRYPTO_customappopen_adstatus": 1,
-        "CRYPTO_customnative_adstatus": 1
+        "CRYPTO_customappopen_adstatus": 0,
+        "CRYPTO_customnative_adstatus": 0
     },
     "admob": {
-        "CRYPTO_appopen_id": "",
-        "CRYPTO_banner_id": "",
-        "CRYPTO_native_id": "",
-        "CRYPTO_interstitial_id": ""
+        "CRYPTO_appopen_id": "ca-app-pub-3940256099942544/9257395921",
+        "CRYPTO_banner_id": "	ca-app-pub-3940256099942544/9214589741",
+        "CRYPTO_native_id": "ca-app-pub-3940256099942544/2247696110",
+        "CRYPTO_interstitial_id": "ca-app-pub-3940256099942544/1033173712"
     },
     "facebook": {
         "CRYPTO_banner_id": "",
@@ -21,7 +21,7 @@
     "frequency_capping": {
         "CRYPTO_frequency_banner": "0",
         "CRYPTO_frequency_native": "0",
-        "CRYPTO_frequency_appopen": "2",
+        "CRYPTO_frequency_appopen": "0",
         "CRYPTO_frequency_interstitial": "0",
         "CRYPTO_frequency_Backinterstitial": "0",
         "CRYPTO_frequency_affiliate": "0"
