@@ -1,7 +1,7 @@
 {
     "CRYPTO_status": {
         "CRYPTO_appName": "Cryptocurrency Calculator",
-        "CRYPTO_adStatus": 1,
+        "CRYPTO_adStatus": 0,
         "CRYPTO_admob_adstatus": 1,
         "CRYPTO_facebook_adstatus": 0,
         "CRYPTO_customappopen_adstatus": 0,
